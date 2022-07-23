@@ -58,6 +58,6 @@ The project Movie Booking App is a mini project on HTML, CSS, JavaScript. In whi
 </p>
 
 ## Click For Preview
-<a href="https://thewisdomgupta.github.io/Movie-Booking-App/>Hurry Up! Book Your Seat on Movie Booking App</a>
+<a href="https://thewisdomgupta.github.io/Movie-Booking-App>Hurry Up! Book Your Seat on Movie Booking App</a>
 
 
