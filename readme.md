@@ -1,6 +1,6 @@
 # Movie Booking App
 
-## Basic JavaScript Project 
+## Basic JavaScript Project. 
 
 #### By Vivek Gupta
 
